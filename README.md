@@ -1,2 +1,2 @@
 # argocd-tkgs
-Library for Argocd
+This is a library for my Argocd projects
